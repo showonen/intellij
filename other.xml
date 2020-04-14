@@ -1,0 +1,65 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Checkstyle</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>CheckStyle</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="134-75-53-255,,,39-134-46-255,,,41-65-44-255,,,42-158-78-255,,,44-169-169-255,,,25-158-102-255,,,70-20-76-255,,,113-27-119-255,,,161-36-167-255,,,126-35-132-255,,,184-51-189-255,,,28-203-135-255" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileChooser.ShowPath" value="true" />
+    <property name="GradleModuleWizard.inheritGroupId" value="true" />
+    <property name="GradleModuleWizard.inheritVersion" value="true" />
+    <property name="INSPECTION_FILTER_HISTORY" value="find bug&#10;checksty&#10;checkst" />
+    <property name="InstalledPluginsSearchHistory" value="Settings Repository&#10;hibernate&#10;g&#10;eclipse&#10;shortcut" />
+    <property name="JUnitSupport.hidePassedTests" value="false" />
+    <property name="KEYMAP" value="find in&#10;H" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="ProjectStructure.SecondLevelElements" value="0.43563217" />
+    <property name="SettingsSearchHistory" value="memory&#10;compile" />
+    <property name="ShortcutTranslatorSourceKeymap" value="Eclipse" />
+    <property name="ShortcutTranslatorTargetKeymap" value="$default" />
+    <property name="TrendingPluginsSearchHistory" value="Settings Repository&#10;IDE Settings Sync&#10;Settings Sync&#10;setting sync&#10;RestfulToolkit" />
+    <property name="build.toolwindow.Sync.selection.state" value="com.intellij.build.BuildTreeConsoleView" />
+    <property name="build.toolwindow.run.selection.state" value="consoleView" />
+    <property name="com.intellij.history.integration.ui.views.DirectoryHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.0" value="300" />
+    <property name="com.intellij.history.integration.ui.views.FileHistoryDialog.1" value="800" />
+    <property name="com.intellij.openapi.roots.ui.configuration.TabbedModuleEditor.selectedEditor" value="Dependencies" />
+    <property name="create.project.preferred.importer" value="Gradle" />
+    <property name="decompiler.legal.notice.accepted" value="true" />
+    <property name="defaultJdkConfigured" value="true" />
+    <property name="eclipse.project.dir" value="C:\Users\tedyan\Documents\patentcloud-backend" />
+    <property name="file.chooser.recent.files" value="$USER_HOME$/Documents/patentcloudrestapi/src/test/resources&#10;C:/Users/tedyan/Documents/kangaroo/src/test/resources&#10;C:/Users/tedyan/Documents/kangaroo/src/main/resources&#10;C:/Users/tedyan/Documents/kangaroo&#10;C:/Users/tedyan/Downloads/apache-tomcat-9.0.22&#10;C:/Users/tedyan/Documents/patentcloudrestapi/src/main/webapp&#10;C:/Users/tedyan/Documents/patentcloudrestapi&#10;C:/Users/tedyan/Documents/kangaroo/src/main/webapp&#10;C:/apache-tomcat-7.0.62&#10;C:/Users/tedyan/Documents/checkstyle.xml&#10;C:/Users/tedyan/Documents/patentcloud-backend&#10;C:/Users/tedyan/Documents/fly_way&#10;C:/Users/tedyan/Documents/kangaroo/.checkstyle&#10;C:/Program Files/Java/jdk1.8.0_201&#10;C:/Users/tedyan/Documents/kangaroo/src/test/java&#10;C:/Users/tedyan/Documents/kangaroo/doc/checkstyle/checkstyle.xml&#10;C:/apache-tomcat-7.0.92/apache-tomcat-7.0.92&#10;C:/apache-tomcat-7.0.92/apache-tomcat-7.0.92/lib&#10;C:/apache-tomcat-7.0.92&#10;C:/Users/tedyan/Downloads/Ladies Night 2/Ladies Night 2.jar&#10;C:/Users/tedyan/Downloads/Ladies Night 2&#10;C:/Users/tedyan/Documents/kangaroo/src/test&#10;C:/Documents and Settings" />
+    <property name="file.gist.reindex.count" value="9696" />
+    <property name="fileTypeChangedCounter" value="12" />
+    <property name="find.popup.splitter" value="0.40981013" />
+    <property name="installed.kotlin.plugin.version" value="1.3.11-release-IJ2018.3-1" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last.imported.location" value="$USER_HOME$/Documents/patentcloudrestapi" />
+    <property name="last.used.gradle.home" value="C:/gradle-3.1" />
+    <property name="lastTip" value="6" />
+    <property name="odps.studio.lastUpdateCheckTimestamp" value="1586840687044" />
+    <property name="project.wizard.group" value="org.jetbrains.plugins.gradle.service.project.wizard.GradleModuleBuilder" />
+    <property name="project.wizard.template" value="Gradle" />
+    <property name="selected.color.option.type" value="TYPO" />
+    <property name="settings.code.style.selected.tab.JAVA" value="Wrapping and Braces" />
+    <property name="vcs.history.diff.splitter.proportion" value="0.5101279" />
+  </component>
+</application>

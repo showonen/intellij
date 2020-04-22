@@ -1,30 +1,10 @@
 <application>
   <component name="TomcatInfoConfigs">
-    <option name="current">
-      <TomcatInfo>
-        <option name="name" value="Apache Tomcat 9.0.22" />
-        <option name="path" value="C:\Users\tedyan\Downloads\apache-tomcat-9.0.22" />
-        <option name="version" value="9.0.22.0" />
-      </TomcatInfo>
-    </option>
     <option name="tomcatInfos">
       <list>
         <TomcatInfo>
-          <option name="name" value="Apache Tomcat 7.0.92" />
-          <option name="path" value="C:\apache-tomcat-7.0.92\apache-tomcat-7.0.92" />
-          <option name="version" value="7.0.92.0" />
-        </TomcatInfo>
-        <TomcatInfo>
-          <option name="path" value="C:\Users\tedyan\Documents\kangaroo\src\test\resources" />
-        </TomcatInfo>
-        <TomcatInfo>
-          <option name="name" value="Apache Tomcat 7.0.62" />
-          <option name="path" value="C:\apache-tomcat-7.0.62" />
-          <option name="version" value="7.0.62.0" />
-        </TomcatInfo>
-        <TomcatInfo>
           <option name="name" value="Apache Tomcat 9.0.22" />
-          <option name="path" value="C:\Users\tedyan\Downloads\apache-tomcat-9.0.22" />
+          <option name="path" value="C:\Users\showonen\Documents\apache-tomcat-9.0.22" />
           <option name="version" value="9.0.22.0" />
         </TomcatInfo>
       </list>

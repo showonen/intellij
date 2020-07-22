@@ -18,5 +18,6 @@
     <mask>*.sql</mask>
     <mask>*.java</mask>
     <mask>*Controller.java</mask>
+    <mask>*Service.java</mask>
   </component>
 </application>

@@ -3,7 +3,7 @@
     <option name="current">
       <TomcatInfo>
         <option name="name" value="Apache Tomcat 9.0.22" />
-        <option name="path" value="C:\Users\showonen\Documents\apache-tomcat-9.0.22" />
+        <option name="path" value="C:\apache-tomcat-9.0.22" />
         <option name="version" value="9.0.22.0" />
       </TomcatInfo>
     </option>
@@ -11,7 +11,7 @@
       <list>
         <TomcatInfo>
           <option name="name" value="Apache Tomcat 9.0.22" />
-          <option name="path" value="C:\Users\showonen\Documents\apache-tomcat-9.0.22" />
+          <option name="path" value="C:\apache-tomcat-9.0.22" />
           <option name="version" value="9.0.22.0" />
         </TomcatInfo>
       </list>

@@ -1,0 +1,10 @@
+<keymap version="1" name="Eclipse copy" parent="Eclipse">
+  <action id="ChangesView.GroupBy.Directory" />
+  <action id="FileChooser.TogglePathShowing" />
+  <action id="Print" />
+  <action id="SmartTypeCompletion">
+    <keyboard-shortcut first-keystroke="shift alt space" />
+    <keyboard-shortcut first-keystroke="ctrl p" />
+  </action>
+  <action id="TodoViewGroupByShowPackages" />
+</keymap>
